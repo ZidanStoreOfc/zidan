@@ -31,6 +31,10 @@
     {
       "username": "Ali",
       "password": "Ali005"
+    },
+    {
+      "username": "MOONZY",
+      "password": "moonzgtg"
     }
   ],
   "blacklist": ["Alvaro", "Revan"]
