@@ -39,6 +39,10 @@
     {
       "username": "aqla",
       "password": "molelegend"
+    },
+    {
+      "username": "wilzx",
+      "password": "wildan"
     }
   ],
   "blacklist": ["RSYD STORE", "ZidanDev", "Ali", "MOONZY"]
