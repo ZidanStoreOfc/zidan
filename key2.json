@@ -11,7 +11,11 @@
     {
       "username": "arkhan",
       "password": "arkhan5455"
+    },
+    {
+      "username": "ZidanDev",
+      "password": "Zidan",
     }
   ],
-  "blacklist": [""]
+  "blacklist": ["ZidanStore"]
 }
