@@ -15,7 +15,10 @@
     {
       "username": "ZidanDev",
       "password": "Zidan"
+    },
+    {
+      "username": "ZidanGanteng",
+      "password": "Zidan098#"
     }
-  ],
-  "blacklist": ["ZidanStore"]
+  ]
 }
