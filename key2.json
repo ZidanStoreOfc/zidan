@@ -24,5 +24,8 @@
       "username": "ZidanAnakBaik",
       "password": "ZidanAnakBaik098#"
     }
+  ],
+  "blacklist": [
+    "Zidan"
   ]
 }
