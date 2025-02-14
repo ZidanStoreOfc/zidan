@@ -1,12 +1,20 @@
 {
   "users": [
     {
+      "username": "ZidanStore",
+      "password": "Zidan"
+    },
+    {
       "username": "Asep mewing",
       "password": "asepsigma"
     },
     {
       "username": "arkhan",
       "password": "arkhan5455"
+    },
+    {
+      "username": "ZidanDev",
+      "password": "Zidan"
     },
     {
       "username": "ZidanAnjayBro",
@@ -17,5 +25,11 @@
       "password": "ZidanAnakBaik098#"
     }
   ],
-  "blacklist": []
+  "blacklist": [
+    "ZidanAnakBaik",
+    "ZidanAnjayBro",
+    "Asep",
+    "ZidanStore",
+    "arkhan"
+  ]
 }
