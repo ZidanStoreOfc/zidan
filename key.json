@@ -43,7 +43,9 @@
     {
       "username": "wilzx",
       "password": "wildan"
+    },
+    {
+      "username": ""
     }
-  ],
-  "blacklist": ["RSYD STORE", "ZidanDev", "MOONZY", "wilzx"]
+  ]
 }
