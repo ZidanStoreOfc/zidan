@@ -13,10 +13,6 @@
       "password": "arkhan5455"
     },
     {
-      "username": "ZidanDev",
-      "password": "Zidan"
-    },
-    {
       "username": "ZidanAnjayBro",
       "password": "ZidanStore098#"
     },
@@ -24,11 +20,5 @@
       "username": "ZidanAnakBaik",
       "password": "ZidanAnakBaik098#"
     }
-  ],
-  "blacklist": [
-    "ZidanAnakBaik",
-    "ZidanAnjayBro",
-    "Asep",
-    "ZidanStore"
   ]
 }
