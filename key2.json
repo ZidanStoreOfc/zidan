@@ -35,6 +35,10 @@
     {
       "username": "galls",
       "password": "TOBRUTWELL"
+    },
+    {
+      "username": "ned",
+      "password": "nedsigma"
     }
   ],
   "blacklist": [
